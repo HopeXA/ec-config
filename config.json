@@ -4,7 +4,7 @@
   "force_after": "",
   "blocked_versions": [],
   "update_url": "",
-  "kill_switch": false,
+  "kill_switch": true,
   "maintenance": false,
   "message_ar": "",
   "message_en": "",
