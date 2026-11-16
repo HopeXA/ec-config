@@ -1,0 +1,31 @@
+{
+  "latest_version": 1,
+  "min_version": 1,
+  "force_after": "",
+  "blocked_versions": [],
+  "update_url": "",
+  "kill_switch": false,
+  "maintenance": false,
+  "message_ar": "",
+  "message_en": "",
+  "banner_ar": "",
+  "banner_en": "",
+  "notice_id": 0,
+  "notice_ar": "",
+  "notice_en": "",
+  "video_url": "",
+  "video_id": 0,
+  "video_always": false,
+  "config_url": "",
+  "features": {
+    "import": true,
+    "create": true,
+    "apps": true,
+    "shortcut": true,
+    "icon": true,
+    "login": true,
+    "backup": true,
+    "restore": true,
+    "delete_account": true
+  }
+}
